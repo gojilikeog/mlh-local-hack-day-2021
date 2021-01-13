@@ -6,4 +6,4 @@ The following challenges have been completed to the best of my ability:
 
 Day 3
 --------
-Write Code to Sort a List -
+Write Code to Sort a List - sort_list.py
